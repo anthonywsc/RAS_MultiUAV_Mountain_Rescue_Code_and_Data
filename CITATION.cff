@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript."
+title: "Terrain-Informed Two-Stage Task Assignment and Dynamic Reallocation for Multi-UAV Mountain Rescue Missions: Code and Data"
+type: software
+authors:
+  - family-names: Chang
+    given-names: Jing
+  - family-names: Li
+    given-names: Han
+  - family-names: Wang
+    given-names: Shaocong
+  - family-names: Chen
+    given-names: Weisheng
+version: 1.0.0
+date-released: 2026-10-11
+

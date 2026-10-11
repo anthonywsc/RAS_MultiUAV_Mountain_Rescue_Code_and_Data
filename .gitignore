@@ -1,0 +1,10 @@
+*.asv
+*.log
+*.tmp
+*.bak
+*.autosave
+__pycache__/
+.DS_Store
+output/experiment_results/in_progress_*
+output/experiment_results/*_batch_*
+
